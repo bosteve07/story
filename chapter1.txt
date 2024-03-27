@@ -1,3 +1,14 @@
 Thank you Jesus for evrything that  you have done for me. 
 
 It can only be God
+
+* To open a file on a BaSH terminal - start <filename.extention>
+* ls -a ---- To see all hidden and un-hiden files 
+*git status --- to see waht is in the staging area after git initialization, it will show the untracked file * git log  ---- to see the commit that has been made and also shows the details of the commitment 
+*git add .  ------ helps to add everything in a particular directory 
+
+COMMAND LINE FOR GIT 
+* The file needs to be created first 
+1. git init
+2.  git add <filename.ext> -------- helps to add the file to staggging area which help to start tracking it and also helps to commit 
+3. git commit -m "commit messgae" ------ helps to commit a file and the commit message helps to the version controler to identify the file. It also helps to keep track of what chhanged you have made 
