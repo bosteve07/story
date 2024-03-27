@@ -6,6 +6,7 @@ It can only be God
 * ls -a ---- To see all hidden and un-hiden files 
 *git status --- to see waht is in the staging area after git initialization, it will show the untracked file * git log  ---- to see the commit that has been made and also shows the details of the commitment 
 *git add .  ------ helps to add everything in a particular directory 
+* git checkout   ----- can be used to rollback to the previous version 
 
 COMMAND LINE FOR GIT 
 * The file needs to be created first 
